@@ -1,0 +1,3 @@
+Portátil Asus; Intel i3 330; 4Gb RAM; 500GB; nVidia GeForce 330; 17.0 Panorámico; 1180.0;
+Portátil Dell; Intel i5 450; 6Gb RAM; 750GB; AtiRadeon 5450; 14.3 Panorámico; 1593.0;
+Portátil Toshiba; Intel i3 370; 2Gb RAM; 300GB; nVidia GeForce 450; 15.6 Panorámico; 2006.0;
