@@ -1,0 +1,8 @@
+Inmueble: 1
+Número de recibo: 1
+Importe: 800.0 €
+IVA: 21.0
+Total : 968.0 €
+Luz : 50.0 €
+Agua : 25.0 €
+Estado: PENDIENTE DE COBRAR
